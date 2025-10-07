@@ -34,6 +34,11 @@ Fake_News_Detector/
 │   └── DataSet_Misinfo_TRUE.csv  <-- Real articles dataset
 ├── README.md                  <-- This file
 ├── requirements.txt           <-- List of required Python packages
+
+[Datasets-kaggle
+ DataSet_Misinfo_FAKE.csv  
+│DataSet_Misinfo_TRUE.csv]
+-->you can go to kaggle and find these datasets
     
 
 2. Installation and Setup
